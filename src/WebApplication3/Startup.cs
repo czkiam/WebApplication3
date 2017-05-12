@@ -28,6 +28,7 @@ namespace WebApplication3
             {
                 // For more details on using the user secret store see http://go.microsoft.com/fwlink/?LinkID=532709
                 builder.AddUserSecrets();
+                //test comment branch
             }
 
             builder.AddEnvironmentVariables();
